@@ -6,3 +6,6 @@ CodeCollab enables teams to code together in real-time with seamless Git integra
 - Real-time code editing
 - Built-in Git workflows
 - Syntax highlighting for 20+ languages
+## Installation
+1. Clone the repo: `git clone https://github.com/user/codecollab.git`
+2. Install dependencies: `yarn install`
