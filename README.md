@@ -9,3 +9,6 @@ CodeCollab enables teams to code together in real-time with seamless Git integra
 ## Installation
 1. Clone the repo: `git clone https://github.com/user/codecollab.git`
 2. Install dependencies: `yarn install`
+## Setup
+Start the server with: `yarn start`
+Access CodeCollab at `http://localhost:8080`.
