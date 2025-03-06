@@ -12,3 +12,6 @@ CodeCollab enables teams to code together in real-time with seamless Git integra
 ## Setup
 Start the server with: `yarn start`
 Access CodeCollab at `http://localhost:8080`.
+## Prerequisites
+- Node.js 18.0+
+- Yarn 1.22+
