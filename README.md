@@ -15,3 +15,5 @@ Access CodeCollab at `http://localhost:8080`.
 ## Prerequisites
 - Node.js 18.0+
 - Yarn 1.22+
+## Example Usage
+
