@@ -17,3 +17,5 @@ Access CodeCollab at `http://localhost:8080`.
 - Yarn 1.22+
 ## Example Usage
 
+## Contributing
+See [CONTRIBUTING.md](CONTRIBUTING.md) for how to contribute to CodeCollab.
