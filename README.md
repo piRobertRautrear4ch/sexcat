@@ -21,3 +21,5 @@ Access CodeCollab at `http://localhost:8080`.
 See [CONTRIBUTING.md](CONTRIBUTING.md) for how to contribute to CodeCollab.
 ## License
 CodeCollab is licensed under the BSD 3-Clause License. See [LICENSE](LICENSE).
+## Testing
+Run tests with: `yarn test`
