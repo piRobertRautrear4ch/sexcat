@@ -23,3 +23,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for how to contribute to CodeCollab.
 CodeCollab is licensed under the BSD 3-Clause License. See [LICENSE](LICENSE).
 ## Testing
 Run tests with: `yarn test`
+## FAQ
+Q: Does CodeCollab support private projects?
+A: Yes, configure access in [settings.md](docs/settings.md).
