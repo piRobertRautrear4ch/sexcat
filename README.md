@@ -26,3 +26,5 @@ Run tests with: `yarn test`
 ## FAQ
 Q: Does CodeCollab support private projects?
 A: Yes, configure access in [settings.md](docs/settings.md).
+## Community
+Join our forum at [forum.codecollab.io](https://forum.codecollab.io) for discussions.
